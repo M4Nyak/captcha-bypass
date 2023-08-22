@@ -105,13 +105,30 @@ reCaptcha v2 Enterprise Token: https://www.capsolver.com/blog/How-to-bypass-all-
 
 
 
+
+
+
+
+
+
 you can look prices on this website https://dashboard.capsolver.com/dashboard/market,
+
+
+
+
 
 and you can sign up capsolver on this link https://dashboard.capsolver.com/passport/registerinviteCode=wx7v6kwfBz3k,
 
 
 
+
+
+
 and download this extension: https://docs.capsolver.com/guide/extension/instructions.html,
+
+
+
+
 
 and dont forget to join discord https://discord.gg/fyHsqAne if you have a problem.
 
@@ -119,10 +136,34 @@ and dont forget to join discord https://discord.gg/fyHsqAne if you have a proble
 
 
 
+
+
+
+
+
+
+
  
 Since you will pay $0.64 per captcha, I suggest you reCAPTCHA v2 200K
 
+
+
+
+
+
+
+
+
+
 first we should download https://github.com/capsolver/capsolver-python
+
+
+
+
+
+
+
+
 
 
 after we will write import capsolver and enter our api key we will get api key from https://dashboard.capsolver.com/dashboard/overview after we will write capsolver.api_key="your capsolver api key"
