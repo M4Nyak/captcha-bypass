@@ -24,8 +24,9 @@ and as someone who uses almost all captcha solving services, I say capsolver is 
 
 you can look prices on this website https://dashboard.capsolver.com/dashboard/market,
 
-and you can sign up capsolver on this link https://dashboard.capsolver.com/passport/regi
-ster?inviteCode=wx7v6kwfBz3k,
+and you can sign up capsolver on this link https://dashboard.capsolver.com/passport/registerinviteCode=wx7v6kwfBz3k,
+
+
 
 and download this extension: https://docs.capsolver.com/guide/extension/instructions.html,
 
