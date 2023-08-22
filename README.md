@@ -82,6 +82,16 @@ reCaptcha v2 Enterprise Token: https://www.capsolver.com/blog/How-to-bypass-all-
 
 
 
+
+
+
+
+
+
+
+
+
+
 you can look prices on this website https://dashboard.capsolver.com/dashboard/market,
 
 and you can sign up capsolver on this link https://dashboard.capsolver.com/passport/registerinviteCode=wx7v6kwfBz3k,
