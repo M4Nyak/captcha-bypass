@@ -56,11 +56,23 @@ some so good Feautures:
 
 Datadome Captcha Token: https://www.capsolver.com/blog/how-to-solve-datadome
 
+
+
+
 AWS Captcha Token: https://www.capsolver.com/blog/how-to-solve-aws-amazon-captcha-token
+
+
+
 
 hCaptcha Enterprise Token: https://www.capsolver.com/blog/how-to-solve-hcaptcha-enterprise
 
+
+
+
 reCaptcha v3 / v3 enterprise  0.9 scores Token: https://www.capsolver.com/blog/how-to-solve-reCAPTCHA-v3
+
+
+
 
 reCaptcha v2 Enterprise Token: https://www.capsolver.com/blog/How-to-bypass-all-the-versions-reCAPTCHA-v2-v3
 
