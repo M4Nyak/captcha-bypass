@@ -22,32 +22,7 @@ At the lowest price on the market, you may receive a variety of solutions, inclu
 I will teach you professional captcha bypass
 I will use capsolver because it is both very good in terms of pricing and solves captchas very quickly I definitely recommend capsolver
 and as someone who uses almost all captcha solving services, I say capsolver is best captcha solving service. I saw that it solved the 12 second captcha in a much shorter time and there are many captcha services, not only recaptcha  they offer fast and appropriate captcha solving
- per 1000 requests prices are as follows
-reCAPTCHA v2 200K: per 0.64 dolar (my favorite)
-reCAPTCHA v2 50K: per 0.72
-reCAPTCHA v2/v2 Enterprise/v3 50K: per 0.90 dolar
-reCAPTCHA v3 Enterprise 50k: per 2.70 dolar
-reCAPTCHA v2/v2 Enterprise/v3 200K:  per 0.80 dolar
-reCAPTCHA v3 Enterprise 200k:  per 2.40 dolar
-reCAPTCHA v2 1000K: per 0.52 dolar
-reCAPTCHA v2/v2 Enterprise/v3 1000K: per 0.65 dolar
-reCAPTCHA v3 Enterprise 1000k: per 1.95 dolar
-hCaptcha Basic 50K(Formarly HCaptchaEnterprise): per 0.90 dolar
-hCaptcha Basic 200K(Formarly HCaptchaEnterprise): per 0.80 dolar
-hCaptcha Basic 1000K(Formarly HCaptchaEnterprise): per 0.65 dolar
-GEETEST 50K Monthly: per 0.46 dolar
-GEETEST 200K Monthly: per 0.40 dolar
-GEETEST 1000K Monthly: per 0.33 dolar
-FunCaptcha 50K Monthly: per 1.80 dolar
-FunCaptcha 200K Monthly: per 1.60 dolar
-FunCaptcha 1000K Monthly: per 1.30 dolar
-Datadome 50K Monthly: per 2.70 dolar
-Datadome 200K Monthly: per 2.40 dolar
-Datadome 1000K Monthly: per 1.95 dolar
-Akamai 20K(Sneaker sites only): per 2.75 dolar
-Akamai 50K(Sneaker sites only): per 2.70 dolar
-Akamai 100K(Sneaker sites only): per 2.40 dolar
-you can look this website for more info https://dashboard.capsolver.com/dashboard/market
+you can look prices on this website https://dashboard.capsolver.com/dashboard/market
 and you can sign up capsolver on this link https://dashboard.capsolver.com/passport/register?inviteCode=wx7v6kwfBz3k
 
 and dont forget to join discord https://discord.gg/fyHsqAne if you have a problem
