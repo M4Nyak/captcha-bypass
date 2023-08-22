@@ -1,4 +1,55 @@
+
+
+
+
+
+
+
+
+<h3>
+        <h3>CapSolver.com</h3>
+        <br>
+        <a href="https://dashboard.capsolver.com/passport/register?inviteCode=invitekodunuyazkanka%22%3E
+            <img src="https://cdn.discordapp.com/attachments/1139171433436684288/1139244499311284324/20230809-142857.gif" alt="Capsolver's Banner">
+        </a>
+</h3>
+
+<br>
+At the lowest price on the market, you may receive a variety of solutions, including reCAPTCHA V2, reCAPTCHA V3, hCaptcha, hCaptcha Click, FunCaptcha, picture-to-text, and more. With this service, 0.1s is the slowest speed ever measured.
+<hr>
+
+
+
+
+
+
+
+
+
+
 I will teach you professional captcha bypass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Since you will pay $0.64 per captcha, I suggest you reCAPTCHA v2 200K
 
 first we should download https://github.com/capsolver/capsolver-python after we will write import capsolver and enter our api key we will get api key from https://dashboard.capsolver.com/dashboard/overview after we will write capsolver.api_key="your capsolver api key" solution = capsolver.solve({ "type":"", "websiteKey":"", "websiteURL":"", }) now i will tell what is that things first we will take captcha value we will press f12 and "we will https://recaptha...k="take this value" and print this to websitekey
 
