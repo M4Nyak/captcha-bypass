@@ -24,7 +24,7 @@ I will use capsolver because it is both very good in terms of pricing and solves
 and as someone who uses almost all captcha solving services, I say capsolver is best captcha solving service. I saw that it solved the 12 second captcha in a much shorter time and there are many captcha services, not only recaptcha  they offer fast and appropriate captcha solving
 you can look prices on this website https://dashboard.capsolver.com/dashboard/market
 and you can sign up capsolver on this link https://dashboard.capsolver.com/passport/register?inviteCode=wx7v6kwfBz3k
-
+and download this extension: https://docs.capsolver.com/guide/extension/instructions.html
 and dont forget to join discord https://discord.gg/fyHsqAne if you have a problem
 and you can look this website for more info about solving. You can learn so much thing at this website https://www.capsolver.com/blog
 Since you will pay $0.64 per captcha, I suggest you reCAPTCHA v2 200K
