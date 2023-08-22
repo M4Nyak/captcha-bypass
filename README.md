@@ -22,6 +22,33 @@ I will use capsolver because it is both very good in terms of pricing and solves
 
 and as someone who uses almost all captcha solving services, I say capsolver is best captcha solving service. I saw that it solved the 12 second captcha in a much shorter time and there are many captcha services, not only recaptcha  they offer fast and appropriate captcha solving
 
+they're solving:
+
+
+Binance Captcha (https://docs.capsolver.com/guide/captcha/BnCaptcha.html)
+Geetest V3 / V4
+CyberSiara
+DataDome
+reCaptcha (v2/v2 enterprise/invisible/v3 with 0.7-0.9 scores / v3 enterprise)
+hCaptcha (normal / invisible / enterprise)
+Queue-it Captcha
+AWS Captcha (Amazon Captcha)
+MTCaptcha
+Funcaptcha
+Anti bots...
+
+
+some so good Feautures:
+
+Datadome Captcha Token: https://www.capsolver.com/blog/how-to-solve-datadome
+AWS Captcha Token: https://www.capsolver.com/blog/how-to-solve-aws-amazon-captcha-token
+hCaptcha Enterprise Token: https://www.capsolver.com/blog/how-to-solve-hcaptcha-enterprise
+reCaptcha v3 / v3 enterprise  0.9 scores Token: https://www.capsolver.com/blog/how-to-solve-reCAPTCHA-v3
+reCaptcha v2 Enterprise Token: https://www.capsolver.com/blog/How-to-bypass-all-the-versions-reCAPTCHA-v2-v3
+
+
+
+
 you can look prices on this website https://dashboard.capsolver.com/dashboard/market,
 
 and you can sign up capsolver on this link https://dashboard.capsolver.com/passport/registerinviteCode=wx7v6kwfBz3k,
@@ -42,7 +69,11 @@ Since you will pay $0.64 per captcha, I suggest you reCAPTCHA v2 200K
 first we should download https://github.com/capsolver/capsolver-python
 
 
-after we will write import capsolver and enter our api key we will get api key from https://dashboard.capsolver.com/dashboard/overview after we will write capsolver.api_key="your capsolver api key" solution = capsolver.solve({ "type":"", "websiteKey":"", "websiteURL":"", }) now i will tell what is that things first we will take captcha value we will press f12 and "we will https://recaptha...k="take this value" and print this to websitekey
+after we will write import capsolver and enter our api key we will get api key from https://dashboard.capsolver.com/dashboard/overview after we will write capsolver.api_key="your capsolver api key"
+
+
+
+solution = capsolver.solve({ "type":"", "websiteKey":"", "websiteURL":"", }) now i will tell what is that things first we will take captcha value we will press f12 and "we will https://recaptha...k="take this value" and print this to websitekey
 
 solution = capsolver.solve({ "type":"", "websiteKey":"the value after https://recaptha...k= ", "websiteURL":"https://website.com", })
 
