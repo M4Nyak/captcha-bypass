@@ -6,13 +6,8 @@
 
 
 
-<h3>
-        <h3>CapSolver.com</h3>
-        <br>
-        <a href="https://dashboard.capsolver.com/passport/register?inviteCode=wx7v6kwfBz3k
-            <img src="https://cdn.discordapp.com/attachments/1139171433436684288/1139244499311284324/20230809-142857.gif" alt="Capsolver's Banner">
-        </a>
-</h3>
+![Alt text](https://cdn.discordapp.com/attachments/1139171433436684288/1139244499311284324/20230809-142857.gif)
+
 
 <br>
 At the lowest price on the market, you may receive a variety of solutions, including reCAPTCHA V2, reCAPTCHA V3, hCaptcha, hCaptcha Click, FunCaptcha, picture-to-text, and more. With this service, 0.1s is the slowest speed ever measured.
