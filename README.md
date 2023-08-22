@@ -26,15 +26,25 @@ they're solving:
 
 
 Binance Captcha (https://docs.capsolver.com/guide/captcha/BnCaptcha.html)
+
 Geetest V3 / V4
+
 CyberSiara
+
 DataDome
+
 reCaptcha (v2/v2 enterprise/invisible/v3 with 0.7-0.9 scores / v3 enterprise)
+
 hCaptcha (normal / invisible / enterprise)
+
 Queue-it Captcha
+
 AWS Captcha (Amazon Captcha)
+
 MTCaptcha
+
 Funcaptcha
+
 Anti bots...
 
 
