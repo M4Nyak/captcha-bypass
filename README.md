@@ -6,7 +6,8 @@
 
 
 
-![Alt text](https://community.bablosoft.com/assets/uploads/fil…43-af98a0d5-1d31-43e1-b214-29f139779d6b-image.png)
+![Alt text](https://cdn.discordapp.com/attachments/1139171433436684288/1139244499311284324/20230809-142857.gif)
+
 
 
 <br>
